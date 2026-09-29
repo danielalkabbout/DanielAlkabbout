@@ -8,7 +8,7 @@ Computer Science graduate from Antonine University (2026). Open to relocating.
 
 ## Projects
 
-**[WhatsApp AI Assistant for Microsoft 365](https://github.com/danielalkabbout/REPLACE-WITH-REPO-NAME)**
+**[WhatsApp AI Assistant for Microsoft 365](https://github.com/danielalkabbout/WhatsApp-Chatbot)**
 A WhatsApp bot that talks to SharePoint, Outlook, Calendar and Teams through the Microsoft Graph API. You can ask GPT-4o mini questions about your SharePoint files, upload files from WhatsApp, send emails and book meetings, and send voice notes instead of typing (Azure AI Speech).
 `TypeScript` `Microsoft Graph API` `GPT-4o mini` `Azure AI Speech` `WhatsApp Cloud API`
 
